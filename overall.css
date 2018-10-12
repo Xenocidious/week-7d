@@ -167,8 +167,7 @@ ul>li{
 .p2clot, .p2-clot{
 	grid-column: 2/4;
 	grid-row: 3;
-}
-	
+}	
 .p4clot, .p4-clot{
 	grid-column: 1/3;
 	grid-row: 4;
@@ -177,7 +176,6 @@ ul>li{
 	grid-column: 2/4;
 	grid-row: 5;
 } 
-
 a{
 	text-decoration: none;
 }
